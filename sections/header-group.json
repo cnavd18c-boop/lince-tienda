@@ -1,13 +1,4 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
-{
+﻿{
   "type": "header",
   "name": "t:names.header",
   "sections": {
@@ -17,7 +8,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "🏠 MÁS DE 20.000 HOGARES PROTEGIDOS  |  🚚 DESPACHO RÁPIDO A CARACAS, VALENCIA, MARACAIBO Y MÁS  |  🔒 COMPRA 100% SEGURA  |  💧 DILE ADIÓS A LAS FILTRACIONES PARA SIEMPRE  |  🚚 ENVÍO GRATIS A TODA VENEZUELA",
             "font": "var(--font-subheading--family)",
             "font_size": "0.75rem",
             "letter_spacing": "normal",
@@ -32,12 +23,12 @@
       "name": "t:names.announcement_bar",
       "settings": {
         "speed": 5,
-        "section_width": "page-width",
-        "background_color": "{{ settings.color_palette.background }}",
-        "divider_width": 1,
-        "divider_color": "{{ settings.color_palette.color2 }}",
-        "padding-block-start": 15,
-        "padding-block-end": 15
+        "section_width": "full-width",
+        "background_color": "#0066cc",
+        "divider_width": 0,
+        "divider_color": "#0066cc",
+        "padding-block-start": 10,
+        "padding-block-end": 10
       }
     },
     "header_section": {

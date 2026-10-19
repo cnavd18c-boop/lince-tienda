@@ -501,12 +501,16 @@
                                                     "settings":  {
 
                                                                  }
-                                                }
+                                                },
+                     "landing_sellador_product":  {
+                                                      "type":  "landing-sellador-product",
+                                                      "settings":  {
+
+                                                                   }
+                                                  }
                  },
     "order":  [
-                  "main",
-                  "landing_comparison",
-                  "landing_pago_venezuela",
+                  "landing_sellador_product",
                   "product_recommendations_qggXJq"
               ]
 }
